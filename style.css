@@ -327,7 +327,6 @@ a{
     border-radius: 50%;
     margin-top: -6px;
 }
-
 .album{
     height: 56px;
     width: 25%;
@@ -336,34 +335,28 @@ a{
     align-items: center;
     
 }
-
 .album img{
     height: 56px;
     width: 56px;
     border-radius: 5px;
     cursor: pointer;
 }
-
 .album a{
     font-size: 14px;
     margin-left: 1rem;
 }
-
 .album i{
     opacity: 0.7;
     cursor: pointer;
 }
-
 .album i:hover{
     opacity: 1;
     transform: scale(1.03);
     transition: linear;
 }
-
 .album a:hover{
     text-decoration: underline;
 }
-
 .circle-plus-div{
     height: 1.5rem;
     width: 1.5rem;
@@ -372,7 +365,6 @@ a{
     align-items: center;
     margin-left: 0.6rem;
 }
-
 @media (max-width: 1046px){
     .hide{
         display: none;
